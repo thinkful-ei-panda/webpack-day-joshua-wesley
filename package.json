@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/thinkful-ei-panda/webpack-day-joshua-wesley/issues"
   },
-  "homepage": "https://github.com/thinkful-ei-panda/webpack-day-joshua-wesley#readme"
+  "homepage": "https://github.com/thinkful-ei-panda/webpack-day-joshua-wesley#readme",
+  "dependencies": {
+    "jquery": "^3.5.1"
+  }
 }
