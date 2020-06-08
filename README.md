@@ -1,5 +1,5 @@
-## Shopping List Starter
+Added webpack to shopping list starter.
 
-#### Created for the Thinkful EI Program.
+Wesley Rou and Josh Struve.
 
-Please reference the startup instructions within your curriculum.
+GitHub Repo: https://github.com/thinkful-ei-panda/webpack-day-joshua-wesley
